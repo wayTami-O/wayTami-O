@@ -1,4 +1,4 @@
-![Header]([https://media.tenor.com/IIC1Uv5NBgsAAAAC/inosuke-kimetsu.gif](https://tenor.com/ru/view/demon-slayer-kimetsu-no-yaiba-inosuke-sigh-anime-gif-24357743))
+![Header](https://tenor.com/bOmIZ.gif)
 - 👋 Hi, I’m Vladislav
 - I’m interested programming in particular Android development
 - I`m currently studying at a college (TSPC) and studying different programming languages in parallel
